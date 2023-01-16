@@ -1,0 +1,160 @@
+.os_mac.root_daum_roughmap, .os_mac.root_daum_roughmap button, .os_mac.root_daum_roughmap input, .os_mac.root_daum_roughmap select, .os_mac.root_daum_roughmap td, .os_mac.root_daum_roughmap textarea, .os_mac.root_daum_roughmap th {
+    
+    margin: 0px auto;
+}
+
+#kboard-venus-webzine-list .kboard-pagination .kboard-pagination-pages li.active a {
+ 
+    border: 1px solid #D11E2F;
+
+    background-color: #D11E2F;
+}
+
+.kboard-venus-webzine-poweredby {
+ 
+    display: none;
+
+}
+
+
+#kboard-venus-webzine-list .kboard-list .kboard-webzine-wrap .kboard-webzine-info .kboard-info-value {
+   
+    color: #333;
+}
+body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close), body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button), div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, input[type="submit"], input[type="button"], .btn.btn-primary, .widget_product_search button[type="submit"], .hestia-sidebar-open.btn.btn-rose, .hestia-sidebar-close.btn.btn-rose, .everest-forms button[type=submit].everest-forms-submit-button {
+   
+    box-shadow: none;
+}
+
+.kboard-inside-ask-poweredby {
+
+    display: none;
+  
+}
+
+.kboard-inside-header .kboard-inside-header-title {
+ 
+    color: #222;
+}
+
+#kboard-inside-ask-main .main-contents .main-contents-title {
+
+    color: #222;
+
+}
+.kboard-inside-ask-cut-strings {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-wrap: normal;
+    color: #222;
+}
+
+.kboard-pure-gallery-poweredby {
+
+    display: none;
+}
+
+
+#kboard-pure-gallery-document .kboard-content .content-view {
+    margin: 0px auto;
+    font-size: 20px;
+    padding: 22px;
+    font-weight: bold;
+    word-break: break-all;
+}
+
+#kboard-pure-gallery-document .kboard-content .content-view img {
+    display: list-item;
+    margin: 0px auto;
+}
+.kboard-pure-gallery-cut-strings {
+ 
+    font-weight: bold;
+ 
+}
+
+#kboard-pure-gallery-list .kboard-category .kboard-category-list li a {
+    display: block;
+    padding: 10px 10px 8px 10px;
+    font-size: 15px;
+    font-weight: 400;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    text-decoration: none;
+    text-shadow: none;
+    box-shadow: none;
+    color: #999;
+}
+
+#kboard-pure-gallery-list .kboard-category .kboard-category-list li.kboard-category-selected a {
+    font-weight: bold;
+    border-bottom: none;
+    color: #fff;
+    background: #c5202f;
+}
+
+#kboard-pure-gallery-list .kboard-pagination .kboard-pagination-pages {
+  
+    margin-top: 60px;
+ 
+}
+
+#kboard-pure-gallery-list .kboard-pure-gallery-list .kboard-list-item .kboard-list-new {
+    text-align: left;
+    font-size: 10px;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    height: 16px;
+    line-height: 16px;
+}
+
+
+.kboard-pure-gallery-cut-strings {
+
+    text-align: left;
+
+}
+#kboard-pure-gallery-list .kboard-pure-gallery-list .kboard-list-item .kboard-list-user {
+
+    text-align: left;
+  
+}
+
+.kboard-pure-gallery-new-notify {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    padding: 4px 4px;
+    line-height: 10px;
+    font-size: 12px;
+    color: white;
+    background-color: #000;
+    font-weight: 300;
+}
+
+#kboard-pure-gallery-list .kboard-category {
+    padding-bottom: 20px;
+}
+
+#kboard-pure-gallery-document .kboard-title h1 {
+    margin: 0;
+    padding: 22px;
+    color: #222;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+#kboard-pure-gallery-document .kboard-content .content-view {
+ 
+    text-align: center;
+   
+}
+
+#kboard-pure-gallery-document .kboard-content .content-view {
+
+    color: #222;
+}
